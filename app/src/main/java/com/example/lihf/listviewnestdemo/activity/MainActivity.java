@@ -62,7 +62,6 @@ public class MainActivity extends Activity implements OnClickListener, OnItemCli
 				plist.add(info);
 			}
 			store.setProducts(plist);
-			
 			list.add(store);
 		}
 		
