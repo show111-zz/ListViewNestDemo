@@ -64,7 +64,6 @@ public class MainActivity extends Activity implements OnClickListener, OnItemCli
 			store.setProducts(plist);
 			list.add(store);
 		}
-		
 	}
 
 	@Override
